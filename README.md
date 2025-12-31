@@ -13,4 +13,4 @@ Bu çalışma, Ankara üniversitesi web tasarımı ve kodlama eğitimim süresin
 ## 🚀 Hedeflenen Özellikler
 - [x] Mobil uyumlu ana sayfa tasarımı.
 - [ ] Kullanıcı etkileşimli anı paylaşım formları (Geliştirme aşamasında).
--
+
