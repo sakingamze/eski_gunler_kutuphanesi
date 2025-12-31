@@ -2,8 +2,8 @@
 
 Bu proje, nostalji temalı bir kafenin ruhunu dijital dünyaya taşımak amacıyla geliştirilmektedir.
 
-## 📋 Proje Hakkında
-Bu çalışma, Ankara üniversitesi web tasarımı ve kodlama eğitimim süresince edindiğim bilgiler ve katıldığım web geliştirme kurslarında edindiğim bilgileri somut bir projeye dönüştürmek amacıyla başlattığım kişisel bir geliştirme projesidir. Amacım, kullanıcı dostu ve nostaljik bir dijital deneyim tasarlamaktır.
+### 📋 Proje Hakkında
+Bu çalışma; Ankara Üniversitesi bünyesindeki eğitimim ve katıldığım web geliştirme kurslarında edindiğim bilgileri somut bir projeye dönüştürmek amacıyla başlattığım kişisel bir geliştirme sürecidir. Amacım, kullanıcı dostu ve nostaljik bir dijital deneyim tasarlamaktır.
 
 ## 🛠️ Teknik Özellikler
 * *Frontend:* HTML5 ve CSS3 (Modern web standartları).
